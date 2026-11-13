@@ -1,0 +1,14 @@
+[
+  {
+    "sequence": 1,
+    "kind": "stage_started",
+    "stage": "request",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 2,
+    "kind": "stage_finished",
+    "stage": "request",
+    "elapsed_seconds": 0.00031
+  }
+]

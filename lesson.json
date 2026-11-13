@@ -1,0 +1,15 @@
+{
+  "lesson": 25,
+  "title": "Deploying Your Agent with Claude",
+  "application": "Deployable Local Question Service",
+  "purpose": "Separate a JSON request contract from the SDK workflow and package a local HTTP entry point with a health check.",
+  "exercise": "Run server.py locally and request /health. Submit a blank question and confirm it is rejected.",
+  "source_topics": [
+    "01-Package-an-Agent-as-an-Application.png",
+    "02-Choose-the-Delivery-Shape.png",
+    "03-Create-a-Web-Entry-Point.png",
+    "04-Configure-the-Host-Runtime.png",
+    "05-Set-Access-and-Operating-Limits.png",
+    "06-Roll-Out-Observe-and-Maintain.png"
+  ]
+}

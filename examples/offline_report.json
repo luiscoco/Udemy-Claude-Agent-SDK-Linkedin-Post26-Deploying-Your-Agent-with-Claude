@@ -1,0 +1,12 @@
+{
+  "lesson": 25,
+  "application": "Deployable Local Question Service",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "answer": "Check input validation, final run status, and a rollback path.",
+    "release": "lesson25-v1",
+    "request_validated": true
+  },
+  "measured_cost_usd": null
+}
